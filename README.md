@@ -1,5 +1,5 @@
 ## Zadání  
-Vytvořte aplikaci, která bude počítat, kolik se nám namnoží králíků za určitý čas podle idealizovaného evolučního výpočtu **Fibonacciho posloupnosti**.
+Vytvořte aplikaci, která bude počítat, jak moc se nám rozmnoží králíci za určitý čas podle idealizovaného reprodukčního výpočtu **Fibonacciho posloupnosti**.
 
 Číslo vypočítané v n-tém kroku posloupnosti popisuje velikost populace po n měsících, pokud předpokládáme, že
 - první měsíc se narodí jediný pár
