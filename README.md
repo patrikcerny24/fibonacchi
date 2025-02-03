@@ -7,6 +7,9 @@ Vytvořte aplikaci, která bude počítat, jak moc se nám rozmnoží králíci 
 - každý měsíc zplodí každý produktivní pár jeden další pár
 - králíci nikdy neumírají, nejsou nemocní atd.
 
+**Růst populace králůků vyjadřuje obrázek**  
+![image](https://github.com/user-attachments/assets/b1897fbe-48d7-401a-9534-c4f650293f5a)
+
 Fibonacciho posloupnost se poprvé objevila v indické matematice již 200 let před naším letopočtem v Pingale. Světoznámou se však stala až pomocí knihy Liber Abaci, vydané roku 1202, od italského matematika <a href="https://cs.wikipedia.org/wiki/Leonardo_Fibonacci">Leonarda z Pisy</a>. Leonardo na příkladu růstu populace králíků v knize vysvětlil, jak často se v matematice s touto posloupností setkáváme, aniž bychom si to vůbec uvědomovali. Jedna z oblastí, se kterou je posloupnost úzce spojena, je zlatý řez. Je dokázáno, že Fibonacciho posloupnost konverguje k hodnotě zlatého řezu, a tudíž se někdy navzájem doplňují. Ovšem nejen v matematice se s touto posloupností můžeme setkat. Fibonacciho posloupnost vidíme všude kolem nás. Ať už to jsou semena slunečnice, okvětní lístky pryskyřníku či šišky borovic, všechny narůstají v určitém řádu. Fibonacciho posloupnost se používá dodnes a stále se objevují nové a nové oblasti, kde se s ní setkáváme.
 
 **Jak se tato posloupnost počítá?**
