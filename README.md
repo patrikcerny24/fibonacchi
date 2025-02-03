@@ -19,6 +19,7 @@ Prvních deset prvků této nekonečné posloupnosti je tedy 1, 1, 2, 3, 5, 8, 1
 Algoritmus výpočtu v Javascriptu:
 <pre>let a = 1, b = 1, temp;
 let i = 0;
+console.log(a);
 while (i <= n) {
   console.log(a);
   temp = a + b;
