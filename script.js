@@ -8,7 +8,7 @@ function generateFibonacci(n) {
      let stars = '';
      let j =0;
      while (j<a) {
-        stars += '*';
+        stars += '🐇';
         j++;
      }
      mesic.innerHTML = stars;
@@ -20,5 +20,5 @@ function generateFibonacci(n) {
     }
 }
 
-const n = 10;
+const n = 6;
 generateFibonacci(n);
